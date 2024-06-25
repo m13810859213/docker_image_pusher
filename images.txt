@@ -7,3 +7,4 @@ qwenllm/qwen:2-cu121
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/gchq/cyberchef:latest
 syncthing/syncthing
+portainer/portainer-ce:latest
