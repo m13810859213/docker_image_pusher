@@ -8,3 +8,4 @@ qwenllm/qwen:2-cu121
 ghcr.io/gchq/cyberchef:latest
 syncthing/syncthing
 portainer/portainer-ce:latest
+6053537/portainer-ce
