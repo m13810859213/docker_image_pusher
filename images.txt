@@ -10,3 +10,4 @@ syncthing/syncthing
 portainer/portainer-ce:latest
 6053537/portainer-ce
 jeessy/ddns-go
+cloudflare/cloudflared
