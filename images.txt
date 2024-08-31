@@ -7,3 +7,4 @@ cloudflare/cloudflared
 moelin/1panel
 ollama/ollama:0.3.3
 freeren/qanything:v1.2.2
+qwenllm/qwenvl:2-cu121
