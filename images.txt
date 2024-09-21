@@ -1,11 +1,1 @@
-#支持私库
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-6053537/portainer-ce
-jeessy/ddns-go
-cloudflare/cloudflared
-moelin/1panel
-ollama/ollama:0.3.3
-freeren/qanything:v1.2.2
-qwenllm/qwenvl:2-cu121
-qwenllm/qwenvl:latest
+ollama/ollama:0.3.11
