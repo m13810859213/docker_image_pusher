@@ -1,1 +1,2 @@
 ollama/ollama:0.4.1
+ubuntu:22.04
