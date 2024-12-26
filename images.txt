@@ -1,7 +1,2 @@
 ollama/ollama:0.5.4
-ubuntu:22.04
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.4.8
-mysql:8.4
-xixihahaliu01/qanything-linux:v1.5.1
-pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+byaidu/pdf2zh
