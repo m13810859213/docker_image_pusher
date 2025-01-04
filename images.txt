@@ -1,2 +1,3 @@
 ollama/ollama:0.5.4
 assaflavie/runlike
+qwenllm/qwen
