@@ -2,3 +2,4 @@ ollama/ollama:0.5.4
 assaflavie/runlike
 qwenllm/qwen
 vllm/vllm-openai
+openjdk:8
