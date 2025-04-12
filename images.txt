@@ -1,5 +1,1 @@
-ollama/ollama:0.5.4
-assaflavie/runlike
-qwenllm/qwen
-vllm/vllm-openai
-openjdk:8
+docker.n8n.io/n8nio/n8n
