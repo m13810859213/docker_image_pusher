@@ -1,1 +1,1 @@
-moelin/1panel
+docker.io/jc21/nginx-proxy-manager
