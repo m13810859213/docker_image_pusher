@@ -1,1 +1,1 @@
-docker.io/jc21/nginx-proxy-manager
+louislam/dockge:1
