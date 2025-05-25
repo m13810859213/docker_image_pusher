@@ -1,1 +1,1 @@
-louislam/dockge:1
+jellyfin/jellyfin
