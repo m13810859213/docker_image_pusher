@@ -1,1 +1,1 @@
-vllm/vllm-openai
+docker.osgeo.org/geoserver:2.27.0
