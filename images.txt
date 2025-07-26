@@ -1,1 +1,1 @@
-docker.osgeo.org/geoserver:2.27.0
+lmsysorg/sglang:v0.4.9.post3-cu128-b200
