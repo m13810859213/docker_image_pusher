@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.9.post3-cu128-b200
+moelin/1panel:latest
