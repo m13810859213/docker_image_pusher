@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.7
+ghcr.io/presenton/presenton:latest
