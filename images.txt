@@ -1,1 +1,1 @@
-ghcr.io/presenton/presenton:latest
+linkease/kspeeder
