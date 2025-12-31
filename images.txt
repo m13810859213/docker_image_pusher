@@ -1,1 +1,1 @@
-node:20
+neosun/fun-audio-chat:v0.5.1-allinone
