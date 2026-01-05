@@ -1,1 +1,1 @@
-nvidia/cuda:13.0.0-cudnn-runtime-ubuntu22.04
+neosun/cosyvoice:latest
