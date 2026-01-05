@@ -1,1 +1,1 @@
-neosun/cosyvoice:latest
+neosun/hy-mt:latest
