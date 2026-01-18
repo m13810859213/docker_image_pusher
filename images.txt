@@ -1,1 +1,1 @@
-neosun/hy-mt:latest
+neosun/translategemma:v1.0.0-allinone
