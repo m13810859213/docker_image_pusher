@@ -1,1 +1,1 @@
-neosun/translategemma:v1.0.0-allinone
+xxxxrt666/gpt-sovits:latest-cu128
