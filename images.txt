@@ -1,1 +1,1 @@
-xxxxrt666/gpt-sovits:latest-cu128
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
