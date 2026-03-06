@@ -1,1 +1,1 @@
-ghcr.io/f/prompts.chat
+neosun/qwen3-tts:2.0.0
