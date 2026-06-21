@@ -1,1 +1,1 @@
-ghcr.io/datascale-ai/omnirt:cuda-latest
+breakstring/gpt-sovits:latest
