@@ -1,1 +1,4 @@
-gpustack/runner:cuda12.8-vllm0.17.1
+docker pull xxxxrt666/gpt-sovits:cu128-20260617-2d9193
+docker pull xxxxrt666/gpt-sovits:cu126-20260617-2d9193
+docker pull xxxxrt666/gpt-sovits:cu128-20250616-7dec5f
+docker pull xxxxrt666/gpt-sovits:cu126-20250616-7dec5f
