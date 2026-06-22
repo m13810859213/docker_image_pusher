@@ -1,1 +1,1 @@
-breakstring/gpt-sovits:latest
+xxxxrt666/gpt-sovits:cu126-lite-20260617-2d9193
