@@ -1,1 +1,1 @@
-xxxxrt666/gpt-sovits:cu128-20260617-2d9193
+lmsysorg/sglang-omni:dev
