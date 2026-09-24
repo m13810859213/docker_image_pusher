@@ -1,1 +1,1 @@
-lmsysorg/sglang-omni:dev
+vllm/vllm-omni:nightly
